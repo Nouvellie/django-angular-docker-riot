@@ -10,7 +10,7 @@ def main():
 
     if DEBUG:
         from django.core.management.commands.runserver import Command as runserver
-        runserver.default_port = "8001"
+        runserver.default_port = "8003"
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

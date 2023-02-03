@@ -27,7 +27,6 @@ info = {
     '__maintainer__': __maintainer__,
     '__prod__': __prod__,
     '__version__': __version__, 
-    '__pathologies__': __pathologies__,
 }
 
 class dotdict(dict):
