@@ -1,0 +1,24 @@
+version: '3.9'
+
+services:
+  django_gunicorn:
+    volumes:
+      - static:/static
+      - ./django-app:/app
+    build:
+      dockerfile: django.Dockerfile
+      context: .
+    ports:
+      - "8000:8000"
+  nginx:
+    image: nginx:1.23.3
+    volumes:
+      - static:/static
+      - ./setup/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+    ports:
+      - "80:80"
+    depends_on:
+      - django_gunicorn
+
+volumes:
+  static:
