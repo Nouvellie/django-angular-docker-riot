@@ -7,10 +7,10 @@ __maintainer__     =      "Rocuant Roberto"
 __license__        =      "GPL v3.0"
 __prod__           =      ""
 __disclaimer__     =      ""
-__version__        =      "0.0.1"
+__version__        =      "0.1.0"
 __logs__           =      {
-    'date':         "02/03/2023",
-    'info':         ["Api created."],
+    'date':         "02/04/2023",
+    'info':         ["Connection with API Riot ready.", "Get info from Riot."],
     'problems':     [""],
     'fixed':        None,
     'commit':       "",

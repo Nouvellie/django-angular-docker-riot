@@ -1,0 +1,45 @@
+{
+    "id": "0EKlJo3T6T116BfaJudnTD6iRoeAWTmUKTYvx5f9fozd",
+    "accountId": "WfqlxznNLGiXxDloxKJNbmXuEiTuEJvRdPq3MM43k5s",
+    "puuid": "kzsMmNAH4GCNjPnprQ4pK5uuqHtVeiLXwPMtNxg_vgRvPeCmClTGZNBfDve1ginEnR_TccRqDE1o1Q",
+    "name": "         ŠzékeŁÿ",
+    "profileIconId": 4017,
+    "revisionDate": 1675541524419,
+    "summonerLevel": 894
+}
+// soloq
+[
+    "LA2_1265958182",
+    "LA2_1265750044",
+    "LA2_1264727661",
+    "LA2_1264708777",
+    "LA2_1264352410",
+    "LA2_1264349121",
+    "LA2_1264329870",
+    "LA2_1264302831",
+    "LA2_1264290918",
+    "LA2_1264065847",
+    "LA2_1264046141",
+    "LA2_1264034121",
+    "LA2_1264018040",
+    "LA2_1264005787",
+    "LA2_1263993299",
+    "LA2_1263973937",
+    "LA2_1263959534",
+    "LA2_1263951130",
+    "LA2_1263937628",
+    "LA2_1263717342"
+]
+
+# spells
+1 cleanse
+3 exhaust
+4 flash
+6 ghost
+7 heal
+11 smite
+12 teleport
+13 clarity
+14 ignite
+21 barrier
+32 mark

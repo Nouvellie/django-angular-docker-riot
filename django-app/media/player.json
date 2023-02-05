@@ -1,0 +1,11 @@
+{
+    "player": {
+        "name": null,
+        "spell1": null,
+        "spell2": null,
+        "elo": null,
+        "side": null,
+        "champ": null
+
+    }
+}

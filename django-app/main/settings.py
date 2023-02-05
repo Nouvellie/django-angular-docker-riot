@@ -12,6 +12,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = env('SECRET_KEY')
 DEBUG = env('DEBUG')
 QA = env('QA')
+RIOT = env('RIOT')
 
 if DEBUG:
     ALLOWED_HOSTS = ['*']
